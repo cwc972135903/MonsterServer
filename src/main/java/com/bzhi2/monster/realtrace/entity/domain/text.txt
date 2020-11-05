@@ -1,0 +1,2 @@
+domain包说明：
+domain通常就代表了与数据库表一一对应的javaBean

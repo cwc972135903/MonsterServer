@@ -1,0 +1,3 @@
+service包说明：
+Dao、DaoImpl是最后操作数据库的，如果你用Mybatis的话，用Service、ServiceImpl调用Dao、DaoImpl，
+然后数据库的操作语句的调用写在Dao、DaoImpl，最后真正数据库操作语句写在相应的xml中

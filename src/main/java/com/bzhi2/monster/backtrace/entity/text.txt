@@ -1,0 +1,2 @@
+entity包说明：
+实体类包，存放javaBean
